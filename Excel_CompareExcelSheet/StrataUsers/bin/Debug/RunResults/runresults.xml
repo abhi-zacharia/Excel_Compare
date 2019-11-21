@@ -1,0 +1,108 @@
+<Results>
+  <GeneralInfo>
+    <RunStartTime>2019-11-11 15:37:46</RunStartTime>
+    <Timezone>GMT Standard Time</Timezone>
+    <OrchestrationToolName>domain-69473854-StrataUsers.dll</OrchestrationToolName>
+    <ReportTitle>LeanFT Report</ReportTitle>
+  </GeneralInfo>
+  <ReportNode type="Run">
+    <Data>
+      <StartTime>2019-11-11 15:37:46</StartTime>
+      <Duration>7</Duration>
+      <Result>Passed</Result>
+      <ErrorText></ErrorText>
+      <Links></Links>
+      <Extension>
+        <Any>
+          <IconKey>Run</IconKey>
+          <IsHtmlErrorText>true</IsHtmlErrorText>
+        </Any>
+      </Extension>
+      <Name>Run Results</Name>
+      <Environment>
+        <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+        <HostName>LT105434</HostName>
+        <NumberOfCores>8</NumberOfCores>
+        <TotalMemory>16231</TotalMemory>
+        <Locale><![CDATA[en-GB]]></Locale>
+        <Timezone>GMT Standard Time</Timezone>
+        <User>AZacharia</User>
+      </Environment>
+      <TestedApplication />
+      <ToolName>LeanFT</ToolName>
+      <ToolVersion><![CDATA[14.53]]></ToolVersion>
+      <Description> </Description>
+    </Data>
+    <ReportNode type="Assembly">
+      <Data>
+        <Name>StrataUsers</Name>
+        <Description><![CDATA[Version: 1.0.0.0]]></Description>
+        <StartTime>11/11/2019 15:37:46</StartTime>
+        <Duration>7</Duration>
+        <Result>Passed</Result>
+        <Video></Video>
+        <ErrorText></ErrorText>
+        <Links></Links>
+        <Extension>
+          <Any>
+            <IconKey>Assembly</IconKey>
+            <IsHtmlErrorText>true</IsHtmlErrorText>
+          </Any>
+        </Extension>
+      </Data>
+      <ReportNode type="Namespace">
+        <Data>
+          <Name>StrataUsers</Name>
+          <Description><![CDATA[]]></Description>
+          <StartTime>11/11/2019 15:37:46</StartTime>
+          <Duration>7</Duration>
+          <Result>Passed</Result>
+          <Video></Video>
+          <ErrorText></ErrorText>
+          <Links></Links>
+          <Extension>
+            <Any>
+              <IconKey>Namespace</IconKey>
+              <IsHtmlErrorText>true</IsHtmlErrorText>
+            </Any>
+          </Extension>
+        </Data>
+        <ReportNode type="Class">
+          <Data>
+            <Name>LeanFtTest</Name>
+            <Description><![CDATA[]]></Description>
+            <StartTime>11/11/2019 15:37:46</StartTime>
+            <Duration>7</Duration>
+            <Result>Passed</Result>
+            <Video></Video>
+            <ErrorText></ErrorText>
+            <Links></Links>
+            <Extension>
+              <Any>
+                <IconKey>Class</IconKey>
+                <IsHtmlErrorText>true</IsHtmlErrorText>
+              </Any>
+            </Extension>
+          </Data>
+          <ReportNode type="Test">
+            <Data>
+              <Name><![CDATA[OGI_User]]></Name>
+              <Description><![CDATA[]]></Description>
+              <StartTime>2019-11-11 15:37:46</StartTime>
+              <Duration>7</Duration>
+              <Result>Passed</Result>
+              <ErrorText></ErrorText>
+              <Links></Links>
+              <Extension>
+                <Any>
+                  <IconKey>Test</IconKey>
+                  <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+              </Extension>
+            </Data>
+          </ReportNode>
+        </ReportNode>
+      </ReportNode>
+    </ReportNode>
+  </ReportNode>
+</Results>
